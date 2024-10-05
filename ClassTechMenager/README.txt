@@ -1,0 +1,1 @@
+Data from desktop application is saved in ..\ClassTechMenager\Data

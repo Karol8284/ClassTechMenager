@@ -1,0 +1,15 @@
+C:\Users\mckar\source\repos\Moje Prywatne\ClassTechMenager\bin\Debug\net8.0\ClassTechMenager.exe
+C:\Users\mckar\source\repos\Moje Prywatne\ClassTechMenager\bin\Debug\net8.0\ClassTechMenager.deps.json
+C:\Users\mckar\source\repos\Moje Prywatne\ClassTechMenager\bin\Debug\net8.0\ClassTechMenager.runtimeconfig.json
+C:\Users\mckar\source\repos\Moje Prywatne\ClassTechMenager\bin\Debug\net8.0\ClassTechMenager.dll
+C:\Users\mckar\source\repos\Moje Prywatne\ClassTechMenager\bin\Debug\net8.0\ClassTechMenager.pdb
+C:\Users\mckar\source\repos\Moje Prywatne\ClassTechMenager\obj\Debug\net8.0\ClassTechMenager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mckar\source\repos\Moje Prywatne\ClassTechMenager\obj\Debug\net8.0\ClassTechMenager.AssemblyInfoInputs.cache
+C:\Users\mckar\source\repos\Moje Prywatne\ClassTechMenager\obj\Debug\net8.0\ClassTechMenager.AssemblyInfo.cs
+C:\Users\mckar\source\repos\Moje Prywatne\ClassTechMenager\obj\Debug\net8.0\ClassTechMenager.csproj.CoreCompileInputs.cache
+C:\Users\mckar\source\repos\Moje Prywatne\ClassTechMenager\obj\Debug\net8.0\ClassTechMenager.sourcelink.json
+C:\Users\mckar\source\repos\Moje Prywatne\ClassTechMenager\obj\Debug\net8.0\ClassTechMenager.dll
+C:\Users\mckar\source\repos\Moje Prywatne\ClassTechMenager\obj\Debug\net8.0\refint\ClassTechMenager.dll
+C:\Users\mckar\source\repos\Moje Prywatne\ClassTechMenager\obj\Debug\net8.0\ClassTechMenager.pdb
+C:\Users\mckar\source\repos\Moje Prywatne\ClassTechMenager\obj\Debug\net8.0\ClassTechMenager.genruntimeconfig.cache
+C:\Users\mckar\source\repos\Moje Prywatne\ClassTechMenager\obj\Debug\net8.0\ref\ClassTechMenager.dll
